@@ -26,6 +26,7 @@ Trade off between query performance vs consistency
 
 
 3. Hybrid approach (store partial properties as embedded doc.): useful if need a snapshot of data at the point in time
+  
   let author = {
     name: 'Izzy'
     //50 other properties
