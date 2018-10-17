@@ -3,6 +3,7 @@ mongoDB + mongoose learning with CRUD operations
 
 
 Modeling Relationships: 
+MongoDB does not enforce data integrity in the db level
 Trade off between query performance vs consistency
 
 1. Using References (Normalization) -> CONSISTENCY: only need to change one place, but every query need to find two places
