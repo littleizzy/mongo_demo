@@ -1,0 +1,17 @@
+{
+  "name": "mongodb_tut",
+  "version": "1.0.0",
+  "description": "demoing for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Izzy",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.1"
+  }
+}
